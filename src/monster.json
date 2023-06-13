@@ -1,0 +1,47 @@
+[
+    { 
+        "Name" : "Grozleen" , 
+        "Age" : "247" , 
+        "Race" : "Troll" , 
+        "Healpoints" : "200" , 
+        "Attackpoints" : "15" , 
+        "Defensivepoints" : "5" 
+    },
+
+    { 
+        "Name" : "Hellgroz" , 
+        "Age" : "1623" , 
+        "Race" : "Magma-Creature" , 
+        "Healpoints" : "200" ,
+        "Attackpoints" : "15" , 
+        "Defensivepoints" : "5" 
+    },
+
+    { 
+        "Name" : "Anisola" , 
+        "Age" : "4" , 
+        "Race" : "Worrior-Cat" ,
+        "Healpoints" : "200" , 
+        "Attackpoints" : "15" , 
+        "Defensivepoints" : "5" 
+    },
+
+    { 
+        "Name" : "Metorus" , 
+        "Age" : "55" , 
+        "Race" : "Minotaur" , 
+        "Healpoints" : "200" ,
+         "Attackpoints" : "15" , 
+         "Defensivepoints" : "5" 
+    },
+
+    { 
+        "Name" : "Elonidas" ,
+         "Age" : "120" , 
+         "Race" : "High-Elf" , 
+         "Healpoints" : "200" , 
+         "Attackpoints" : "15" , 
+         "Defensivepoints" : "5" 
+    }
+
+]
