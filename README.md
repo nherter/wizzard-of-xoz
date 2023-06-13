@@ -1,4 +1,4 @@
-### Beschreibung der Projektarbeit
+# Beschreibung der Projektarbeit
 
 Das Projekt, was ich erstellt habe mit dem Namen „THE WIZZARD OF XOZ“ ist ein textbasiertes englisches Kampfspiel. Der Name ist an den Film „Der Zauberer von Oz“ angelehnt. Das Kampfsystem wurde an dem Spiel „Pokémon“ inseriert (Kampf, Heilen, Fliehen).
 
